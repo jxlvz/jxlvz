@@ -48,7 +48,6 @@ currently learning go, microservices architecture, and all things cloud. i also 
 |     | name                              | description                                  | languages          |
 | --- | --------------------------------- | -------------------------------------------- | ------------------ |
 | 📟  | [devops-hands-on-project-hivebox] | hivebox with FastAPI + CI/CD + k8s manifests | Python, Dockerfile |
-| 🏥  | [patient-management]              | patient management system with microservices | Java               |
 | 🎬  | [greenlight]                      | REST JSON API for movies                     | Go                 |
 | 📝  | [snippetbox]                      | web app for managing snippets                | Go, HTML, CSS, JS  |
 | 👤  | [jxlvz]                    | readme repo                                  | Markdown           |
