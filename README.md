@@ -30,8 +30,8 @@ currently learning go, microservices architecture, and all things cloud. i also 
 <div align="center">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxlvz&theme=dark&rank_icon=github)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxlvz&theme=dark&card_width=450px)<br>
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jxlvz&theme=dark&rank_icon=github)<br>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jxlvz&theme=dark&card_width=450px)<br>
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jxlvz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
 </div>
