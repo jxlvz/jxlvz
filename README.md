@@ -9,7 +9,7 @@
 
 <div align="center">
 
-hey. my name is jose. aka jxlvz. i like backend & devops stuff.
+i like backend & devops stuff.
 
 currently learning go, microservices architecture, and all things cloud. i also try to build things that don't break.
 
