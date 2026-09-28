@@ -47,6 +47,7 @@ currently learning go, microservices architecture, and all things cloud. i also 
 
 |     | name                              | description                                  | languages          |
 | --- | --------------------------------- | -------------------------------------------- | ------------------ |
+| ☁️  | [cloud-resume-frontend]           | cloud resume challenge on AWS + Terraform    | HTML, CSS, HCL, JS |
 | 📟  | [devops-hands-on-project-hivebox] | hivebox with FastAPI + CI/CD + k8s manifests | Python, Dockerfile |
 | 🎬  | [greenlight]                      | REST JSON API for movies                     | Go                 |
 | 📝  | [snippetbox]                      | web app for managing snippets                | Go, HTML, CSS, JS  |
@@ -55,6 +56,7 @@ currently learning go, microservices architecture, and all things cloud. i also 
 </div>
 </details>
 
+[cloud-resume-frontend]: https://github.com/jxlvz/cloud-resume-frontend
 [jxlvz]: https://github.com/jxlvz/jxlvz
 [patient-management]: https://github.com/jxlvz/patient-management
 [greenlight]: https://github.com/jxlvz/greenlight
